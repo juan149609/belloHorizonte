@@ -869,7 +869,7 @@ color: #fff;
 }
 .contact_footer_grid_left span {
 font-size: 43px;
-color:#00BCD4;
+color:#0a68ad;
 transition: 0.5s all;
 -webkit-transition: 0.5s all;
 -moz-transition: 0.5s all;
@@ -894,7 +894,7 @@ font-weight:600;
 line-height:23px;
 }
 .bottom-para ul li span {
-color: #00bcd4;
+color: #0a68ad;
 font-size: 15px;
 }
 .footer-office-hour ul li span {
@@ -968,10 +968,10 @@ color: #d8d8d8;
 letter-spacing: 2px;
 }
 footer p a {
-color:#00BCD4;
+color:#0a68ad;
 }
 footer p a:hover {
-color: rgb(255, 255, 255);
+color: #fff;
 }
 .copy-agile-right {
 border-top: 1px solid #848181;
