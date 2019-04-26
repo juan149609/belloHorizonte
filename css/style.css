@@ -920,7 +920,7 @@ text-align: center;
 width:35px;
 height:35px;
 line-height:35px;
-background:#00BCD4;
+background:#0a68ad;
 border-radius:50px;
 margin: 0px 3px;
 color: #ffffff;
@@ -928,9 +928,11 @@ transition: 0.5s all;
 -webkit-transition: 0.5s all;
 transition: 0.5s all;
 -moz-transition: 0.5s all;	
+border: 1px solid #0a68ad
 }
-.icons-footer ul li a span:hover{background:#fff;
-color:#00BCD4;}
+.icons-footer ul li a span:hover{background:#ec8628;
+color:#000;
+}
 .contact-subscribe input[type="email"] {
 width:66%;
 font-size: 14px;
