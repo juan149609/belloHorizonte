@@ -1747,3 +1747,8 @@ line-height: 31px;
     color: #0a68ad;
     background: #ec8628;
 }
+
+.start-logo {
+    position: relative;
+    left: -35%;
+}
